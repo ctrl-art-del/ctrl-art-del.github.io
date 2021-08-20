@@ -32,7 +32,7 @@ description: "" # >- # this means to ignore newlines until "baseurl:"
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  ctrl-art-del
+# github_username:  ctrl-art-del
 
 # Build settings
 theme: minima
@@ -63,7 +63,8 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
+- null
 #  - about.md
 #  - portfolio.md
-disqus:
-   shortname: ctrl_art_del
+#disqus:
+#   shortname: https-ctrl-art-del-github-io
