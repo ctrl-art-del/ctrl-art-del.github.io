@@ -3,7 +3,7 @@ layout: post
 title:  "Изучаем некоторые параметры механических жестких дисков в условиях эксплуатации 24/7 (фарминг Chia)"
 date:   2021-08-20 00:30:00 +0200
 categories: jekyll update
-comments: true
+comments: false
 ---
 Уважаемые Chia фермеры,
 
