@@ -293,5 +293,10 @@ WD Green, конечно, настрадались в своей жизни, н�
 
 <p>&copy; 2021 ctrl-art-del</p>
 
-<script src="/js/jquery.min.js"></script>
-{% include comments.html element=".post-content" github_account="ctrl-art-del/ctrl-art-del.github.io" require_cookie_consent="true" %}
+<script src="https://utteranc.es/client.js"
+        repo="ctrl-art-del/ctrl-art-del.github.io"
+        issue-term="HDD reliability"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
